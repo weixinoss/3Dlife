@@ -1,0 +1,10 @@
+# WorkBuddy project data (not part of the source)
+.workbuddy/
+
+# Verification / debug screenshots
+*.png
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
